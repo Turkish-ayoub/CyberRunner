@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Runner 3D",
+  "description": "An elite high-octane 3D Cyberpunk Endless Runner WebGL game ready for CrazyGames and Poki with monetization, touch controls, and neon obstacles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
